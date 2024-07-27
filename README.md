@@ -10,7 +10,7 @@ I'm passionate about:
 I'm currently diving deep into:
 - [Machine Learning](#)
 - [Cloud Computing](#)
-- [Pyhton, Svelte, Tailwind CSS, TypeScript, WordPress, php, html, css, javascript, flutter etc...  ](#)
+- [Pyhton, bash, Svelte, Tailwind CSS, TypeScript, WordPress, php, html, css, javascript, flutter etc...  ](#)
 
 ## 📫 How to Reach Me
 You can reach me via:

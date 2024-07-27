@@ -14,9 +14,7 @@ I'm currently diving deep into:
 
 ## 📫 How to Reach Me
 You can reach me via:
-- [Email](mailto:youremail@example.com)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
+ - Discord : excho0
 
 ## 😄 Pronouns
 My pronouns are:
@@ -31,8 +29,6 @@ My pronouns are:
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=excho0&theme=dracula)
 
-## 🔗 Connect with Me
-- My Discord: excho0
 
 
 

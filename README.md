@@ -2,15 +2,15 @@
 
 ## 👀 Interests
 I'm passionate about:
-- [Artificial Intelligence](#)
-- [Open Source Software](#)
-- [Web Development](#)
+- [Artificial Intelligence](https://en.m.wikipedia.org/wiki/Artificial_intelligence)
+- [Open Source Software](https://en.m.wikipedia.org/wiki/Open-source_software)
+- [Web Development](https://en.m.wikipedia.org/wiki/Web_development)
 
 ## 🌱 Currently Learning
 I'm currently diving deep into:
-- [Machine Learning](#)
-- [Cloud Computing](#)
-- [Pyhton, bash, Svelte, Tailwind CSS, TypeScript, WordPress, php, html, css, javascript, flutter etc...  ](#)
+- [Machine Learning](https://en.m.wikipedia.org/wiki/Machine_learning)
+- [Cloud Computing](https://en.m.wikipedia.org/wiki/Cloud_computing)
+- [Python, bash, Svelte, Tailwind CSS, TypeScript, WordPress, php, html, css, javascript, flutter etc...  ](#)
 
 ## 📫 How to Reach Me
 You can reach me via:
@@ -32,4 +32,4 @@ My pronouns are:
 
 
 
-*Thank you for visiting my profile! Feel free to reach out and connect!*
+*Thank you for visiting my profile! Feel free to reach out!*

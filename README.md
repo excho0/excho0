@@ -160,10 +160,6 @@ I don't really have a niche.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="52" height="52" alt="Godot" />
 </p>
 
-<p>
-  Unreal Engine &nbsp;•&nbsp; Unity &nbsp;•&nbsp; Godot
-</p>
-
 ### 🔧 other weapons
 
 <p>

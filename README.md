@@ -1,11 +1,8 @@
 <div align="center">
 
-# Hey, I'm Excho 👋
+# yo, i'm excho 👋
 
-### I build things.
-
-AI systems, developer tools, infrastructure, SaaS products,  
-and occasionally ideas that probably sounded simpler at the beginning.
+### i build weird stuff with code, AI and way too many containers.
 
 <br>
 
@@ -15,64 +12,62 @@ and occasionally ideas that probably sounded simpler at the beginning.
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-I'm a builder interested in the space where **AI, software engineering, infrastructure and experimentation collide**.
+## ⚡ what happens here
 
-I like taking ideas from:
+One day I'm building an AI agent.
 
-```text id="vncjob"
-"What if we built this?"
-        ↓
-Architecture
-        ↓
-AI / Agents / Tools
-        ↓
-Backend & Infrastructure
-        ↓
-        ??? 
-        ↓
-Working Product
-```
+The next day it's talking to a brokerage API.
 
-A lot of my work revolves around **AI agents that interact with real systems** — APIs, databases, financial infrastructure, developer tools, workers and automation.
+Then somehow there's a distributed worker system,  
+an MCP server, three Docker containers and a database involved.
 
-But I'm not particularly loyal to one category.
+<br>
 
-If something looks interesting enough to build, I'll probably try building it.
+**Most of my projects start with:**
+
+### *"wait... could I actually build that?"*
+
+**and then things get out of hand.**
+
+</div>
 
 ---
 
-## 🧪 Things I Like Building
+<div align="center">
 
-🤖 **AI & Agentic Systems**  
-Agents, MCP servers, tool orchestration and autonomous workflows.
+## 🧪 the lab
 
-🛠️ **Developer Tools**  
-Tooling that automates or improves development workflows.
+🤖 AI agents that can actually **do things**
 
-⚙️ **Backend & Infrastructure**  
-APIs, workers, queues, databases, containers and distributed systems.
+🔌 MCP servers & ridiculous tool integrations
 
-📈 **Financial Systems**  
-Experimental AI infrastructure interacting with brokerage and market systems.
+⚙️ APIs, workers, queues and backend systems
 
-🌐 **Web Products & SaaS**  
-Full-stack products built from prototype to deployment.
+📈 experiments involving markets & financial infrastructure
 
-🎮 **Game Experiments**  
-Multiplayer systems, unusual mechanics and Unreal Engine experiments.
+🌐 SaaS ideas that escaped the notes app
 
-💡 **Random Ideas That Become Repositories**  
-Arguably the most dangerous category.
+🎮 occasionally opening Unreal Engine and creating another problem
+
+🐧 Linux machines doing questionable amounts of work
+
+<br>
+
+**basically: if the idea is interesting enough, I'll probably try building it.**
+
+</div>
 
 ---
 
-# 🧰 Toolbox
+<div align="center">
 
-### Languages
+## 🧰 toolbox
 
-<p align="center">
+### languages
+
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
@@ -86,9 +81,9 @@ Arguably the most dangerous category.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
 </p>
 
-### Web & Frontend
+### web stuff
 
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" />
@@ -104,9 +99,9 @@ Arguably the most dangerous category.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
 </p>
 
-### Backend & Data
+### data & backend
 
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
@@ -120,9 +115,9 @@ Arguably the most dangerous category.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="48" height="48" alt="Supabase" />
 </p>
 
-### Infrastructure & DevOps
+### infrastructure
 
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" width="48" height="48" alt="NixOS" />
@@ -140,9 +135,9 @@ Arguably the most dangerous category.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="48" height="48" alt="Grafana" />
 </p>
 
-### Platforms & Other Tools
+### other weapons
 
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="48" height="48" alt="Vercel" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="48" height="48" alt="Unreal Engine" />
@@ -152,38 +147,33 @@ Arguably the most dangerous category.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
 </p>
 
----
-
-## 🧠 Current Obsessions
-
-```yaml id="nnutlb"
-ai:
-  - Agents
-  - MCP
-  - Tool Use
-  - Agent Orchestration
-
-systems:
-  - Distributed Workers
-  - Automation
-  - Infrastructure
-  - APIs
-
-building:
-  - Developer Tools
-  - SaaS
-  - Financial Systems
-  - Experimental Products
-  - Games
-```
+</div>
 
 ---
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=excho0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Excho GitHub Stats" />
+## 🧠 currently causing problems with
+
+`AI Agents` • `MCP` • `Tool Use` • `Automation`
+
+`Distributed Workers` • `APIs` • `Infrastructure`
+
+`SaaS` • `Financial Systems` • `Game Development`
+
+<br>
+
+*there is usually at least one unnecessary Docker container involved.*
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 github things
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=excho0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=excho0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
@@ -195,9 +185,9 @@ building:
 
 ---
 
-## 🏆 Trophies
-
 <div align="center">
+
+## 🏆 shiny internet achievements
 
 <img src="https://github-profile-trophy.vercel.app/?username=excho0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
 
@@ -205,24 +195,22 @@ building:
 
 ---
 
-## 📡 Find Me
-
 <div align="center">
+
+## 📡 transmission received?
+
+**Discord:** `@excho0`
+
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-excho0-181717?style=for-the-badge&logo=github)](https://github.com/excho0)
 
 ![Discord](https://img.shields.io/badge/Discord-@excho0-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-</div>
+<br><br>
 
----
+### `think → build → break → fix → somehow ship`
 
-<div align="center">
-
-### `Think → Build → Break → Fix → Ship → Repeat`
-
-<sub>
-AI • Systems • Infrastructure • Developer Tools • Experiments
-</sub>
+<sub>repeat until the repository becomes concerningly large</sub>
 
 </div>

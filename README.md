@@ -2,11 +2,11 @@
 
 # yo, i'm excho 👋
 
-### i build weird stuff with code, AI and way too many containers.
+### i have ideas. unfortunately, i also know how to build them.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=excho0&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=excho0&label=PEOPLE+WHO+FOUND+THIS+PLACE&color=7c3aed&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -14,22 +14,30 @@
 
 <div align="center">
 
-## ⚡ what happens here
+## ⚡ welcome to the consequences of my curiosity
 
-One day I'm building an AI agent.
+Most repositories here started with a completely reasonable question:
 
-The next day it's talking to a brokerage API.
-
-Then somehow there's a distributed worker system,  
-an MCP server, three Docker containers and a database involved.
+### *"wait... can I actually build that?"*
 
 <br>
 
-**Most of my projects start with:**
+The answer is usually:
 
-### *"wait... could I actually build that?"*
+**yes.**
 
-**and then things get out of hand.**
+The second answer is usually:
+
+**this is getting slightly out of hand.**
+
+<br>
+
+AI agents, infrastructure, developer tools, SaaS, financial systems,  
+game experiments and whatever seemed like a good idea that week.
+
+I don't really have a niche.
+
+**I have a GitHub account and poor resistance to interesting ideas.**
 
 </div>
 
@@ -37,25 +45,27 @@ an MCP server, three Docker containers and a database involved.
 
 <div align="center">
 
-## 🧪 the lab
+## 🧪 current situation
 
-🤖 AI agents that can actually **do things**
+🤖 giving AI agents tools and then trusting them suspiciously quickly
 
-🔌 MCP servers & ridiculous tool integrations
+🔌 connecting things through MCP because apparently everything needs an MCP server now
 
-⚙️ APIs, workers, queues and backend systems
+⚙️ building APIs, workers and queues until the architecture diagram becomes concerning
 
-📈 experiments involving markets & financial infrastructure
+📈 occasionally allowing code to communicate with financial infrastructure
 
-🌐 SaaS ideas that escaped the notes app
+🌐 turning random thoughts into SaaS projects
 
-🎮 occasionally opening Unreal Engine and creating another problem
+🎮 making games because normal software apparently wasn't enough
 
-🐧 Linux machines doing questionable amounts of work
+🐧 convincing Linux machines to participate in all of the above
 
 <br>
 
-**basically: if the idea is interesting enough, I'll probably try building it.**
+**some people collect hobbies.**
+
+**I collect unfinished architecture diagrams.**
 
 </div>
 
@@ -63,9 +73,9 @@ an MCP server, three Docker containers and a database involved.
 
 <div align="center">
 
-## 🧰 toolbox
+## 🧰 the arsenal
 
-### languages
+### 🐍 languages
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />
@@ -74,14 +84,21 @@ an MCP server, three Docker containers and a database involved.
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
   &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="48" height="48" alt="Rust" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="48" height="48" alt="Go" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
+  &nbsp;&nbsp;
 </p>
 
-### web stuff
+### 🌐 web stuff
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
@@ -99,7 +116,7 @@ an MCP server, three Docker containers and a database involved.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
 </p>
 
-### data & backend
+### 🗄️ data & backend
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
@@ -115,7 +132,7 @@ an MCP server, three Docker containers and a database involved.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="48" height="48" alt="Supabase" />
 </p>
 
-### infrastructure
+### 🐳 infrastructure & things keeping me awake
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
@@ -130,17 +147,29 @@ an MCP server, three Docker containers and a database involved.
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="48" height="48" alt="Grafana" />
 </p>
 
-### other weapons
+### 🎮 game dev — because apparently i needed another hobby
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="52" height="52" alt="Unreal Engine" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="52" height="52" alt="Unity" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="52" height="52" alt="Godot" />
+</p>
+
+<p>
+  Unreal Engine &nbsp;•&nbsp; Unity &nbsp;•&nbsp; Godot
+</p>
+
+### 🔧 other weapons
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="48" height="48" alt="Vercel" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="48" height="48" alt="Unreal Engine" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="48" height="48" alt="Photoshop" />
   &nbsp;&nbsp;
@@ -153,17 +182,19 @@ an MCP server, three Docker containers and a database involved.
 
 <div align="center">
 
-## 🧠 currently causing problems with
+## 🧠 current brain occupation
 
-`AI Agents` • `MCP` • `Tool Use` • `Automation`
+`AI Agents` &nbsp;•&nbsp; `MCP` &nbsp;•&nbsp; `Tool Use`
 
-`Distributed Workers` • `APIs` • `Infrastructure`
+`Distributed Systems` &nbsp;•&nbsp; `Automation` &nbsp;•&nbsp; `Infrastructure`
 
-`SaaS` • `Financial Systems` • `Game Development`
+`SaaS` &nbsp;•&nbsp; `Financial Systems` &nbsp;•&nbsp; `Game Dev`
 
 <br>
 
-*there is usually at least one unnecessary Docker container involved.*
+Current strategy:
+
+**have idea → investigate idea → accidentally architect entire platform**
 
 </div>
 
@@ -171,7 +202,7 @@ an MCP server, three Docker containers and a database involved.
 
 <div align="center">
 
-## 📊 github things
+## 📊 numbers the internet decided to give me
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=excho0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 
@@ -187,7 +218,7 @@ an MCP server, three Docker containers and a database involved.
 
 <div align="center">
 
-## 🏆 shiny internet achievements
+## 🏆 achievements unlocked by touching grass less
 
 <img src="https://github-profile-trophy.vercel.app/?username=excho0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
 
@@ -197,7 +228,7 @@ an MCP server, three Docker containers and a database involved.
 
 <div align="center">
 
-## 📡 transmission received?
+## 📡 found something interesting?
 
 **Discord:** `@excho0`
 
@@ -209,8 +240,10 @@ an MCP server, three Docker containers and a database involved.
 
 <br><br>
 
-### `think → build → break → fix → somehow ship`
+### `think → build → break → stare at logs → fix → ship`
 
-<sub>repeat until the repository becomes concerningly large</sub>
+<sub>
+if everything works on the first try, something is deeply wrong.
+</sub>
 
 </div>

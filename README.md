@@ -10,7 +10,7 @@
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -41,7 +41,7 @@ I don't really have a niche.
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -69,7 +69,7 @@ I don't really have a niche.
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -174,7 +174,7 @@ I don't really have a niche.
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -194,25 +194,19 @@ Current strategy:
 
 </div>
 
----
+<br>
 
 <div align="center">
 
 ## 📊 numbers the internet decided to give me
 
-<a href="https://github.com/excho0">
-  <img src="https://img.shields.io/badge/GitHub-excho0-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/Discord-@excho0-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-
-<br><br>
+<br>
 
 <img src="https://streak-stats.demolab.com?user=excho0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
----
+<br><br>
 
 <div align="center">
 
@@ -235,17 +229,18 @@ Current strategy:
 
 </div>
 
----
+<br>
+
 <div align="center">
 
 ## 📡 found something interesting?
 
 <br>
 
-![Discord](https://img.shields.io/badge/Discord-@excho0-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-excho0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/excho0)
+![Discord](https://img.shields.io/badge/Discord-@excho0-5865F2?style=flat-square&logo=discord&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-excho0-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/excho0)
 
-<br><br>
+---
 
 ### `think → build → break → stare at logs`
 

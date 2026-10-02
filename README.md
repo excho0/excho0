@@ -200,9 +200,11 @@ Current strategy:
 
 ## 📊 numbers the internet decided to give me
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=excho0&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=excho0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<a href="https://github.com/excho0">
+  <img src="https://img.shields.io/badge/GitHub-excho0-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Discord-@excho0-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
 
 <br><br>
 
@@ -221,25 +223,23 @@ Current strategy:
 </div>
 
 ---
-
 <div align="center">
 
 ## 📡 found something interesting?
 
-**Discord:** `@excho0`
-
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-excho0-181717?style=for-the-badge&logo=github)](https://github.com/excho0)
-
 ![Discord](https://img.shields.io/badge/Discord-@excho0-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-excho0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/excho0)
 
 <br><br>
 
-### `think → build → break → stare at logs → fix → ship`
+### `think → build → break → stare at logs`
 
-<sub>
-if everything works on the first try, something is deeply wrong.
-</sub>
+### `fix → ship → somehow start another project`
+
+<br>
+
+<sub>if everything works on the first try, something is deeply wrong.</sub>
 
 </div>

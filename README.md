@@ -175,7 +175,7 @@ I don't really have a niche.
 ### 🐐 and of course... the GOAT of them all
 
 <p>
-  <img src="./assets/codex.svg" width="48" height="48" alt="OpenAI Codex" />
+  <img src="./assets/codex.png" width="48" height="48" alt="OpenAI Codex" />
 </p>
 
 <sub>my ideas were already dangerous. then they gave me Codex.</sub>

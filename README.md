@@ -178,7 +178,10 @@ I don't really have a niche.
   <img src="./assets/codex.png" width="48" height="48" alt="OpenAI Codex" />
 </p>
 
-<sub>my ideas were already dangerous. then they gave me Codex.</sub>
+`
+my ideas were already dangerous. then they gave me Codex.
+`
+<br><br>
 
 <div align="center">
 

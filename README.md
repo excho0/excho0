@@ -172,9 +172,13 @@ I don't really have a niche.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
 </p>
 
-</div>
+### 🐐 and of course... the GOAT of them all
 
-<br>
+<p>
+  <img src="./assets/codex.svg" width="48" height="48" alt="OpenAI Codex" />
+</p>
+
+<sub>my ideas were already dangerous. then they gave me Codex.</sub>
 
 <div align="center">
 
